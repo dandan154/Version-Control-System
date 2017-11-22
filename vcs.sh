@@ -1,9 +1,8 @@
 #!/bin/bash
 
-#### ABOUT: 	CVS-like application that allows for multiple users to work on a project
-#### NAME:		Daniel John McGuinness
-#### MATRIC:	150007957
-#### DATE:		15/10/16
+#### ABOUT: 	CVS application that allows for multiple users to work on a project
+#### NAME:	Daniel J McGuinness
+#### DATE:	15/10/16
 
 while [ "$choice" != 0 ]
 do
