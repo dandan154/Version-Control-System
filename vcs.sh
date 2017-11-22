@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#### ABOUT: 	CVS application that allows for multiple users to work on a project
+#### ABOUT: 	VCS application that allows for multiple users to work on a project
 #### NAME:	Daniel J McGuinness
 #### DATE:	15/10/16
 
